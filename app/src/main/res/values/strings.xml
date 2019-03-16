@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"> بانک پیامک وینسا</string>
+    <string name="message">پیامک ها</string>
+    <string name="favorite">علاقه مندی ها</string>
+    <string name="comment">نظر دادن به برنامه</string>
+    <string name="settings">تنظیمات</string>
+    <string name="exit">خروج</string>
+    <string name="share_using">share_using</string>
+    ///////////////////////////////////////////////////
+    <string name="payamak">پیامک</string>
+    <string name="share">اشتراک</string>
+    <string name="copy">کپی</string>
+    <string name="fav">علاقه مندی</string>
+    <string name="delete">حذف</string>
+
+
+
+
+</resources>

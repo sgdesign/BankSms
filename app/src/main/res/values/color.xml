@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="guillotine_background">#03A9F4</color>
+    <color name="guillotine_background_dark">#EAEAF5</color>
+    <color name="selected_item_color">#30d1d5</color>
+    <color name="color_card_background">#ffffff</color>
+
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark2">#df363636</color>
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent2">#ffa9c6</color>
+    <color name="colorAccent">#FFAB00</color>
+    <color name="colorDilogTitle">#03A9F4</color>
+    <color name="textColorPrimary">#f6ffffff</color>
+    <color name="primary_text_material_dark">#f6222222</color>
+    <color name="setting_background">#dfdfdf</color>
+    <color name="background_nakhodi">#E6D8BE</color>
+    <color name="background_gray">#EAEAF5</color>
+    <color name="colorTitle">#03A9F4</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorIndicator">#c8e8ff</color>
+
+    <color name="status_bar_color_pink">#03A9F4</color>
+    <color name="status_bar_color_red">#03A9F4</color>
+    <color name="status_bar_color_teal">#00897B</color>
+    <color name="status_bar_color_blue_grey">#546E7A</color>
+    <color name="status_bar_color_orange">#FB8C00</color>
+
+    <!-- رنگ های بک گراند اسلاید -->
+    <color name="slide1_color">#009688</color>
+    <color name="slide2_color">#03A9F4</color>
+    <color name="slide3_color">#5C6BC0</color>
+    <color name="slide4_color">#03A9F4</color>
+    <color name="slide5_color">#03A9F4</color>
+
+</resources>

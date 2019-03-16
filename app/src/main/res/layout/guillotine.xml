@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/guillotine_background"
+    android:orientation="vertical"
+    android:gravity="center|top">
+
+    <android.support.v7.widget.Toolbar
+        style="@style/Toolbar"
+        app:contentInsetStart="0dp"
+        android:id="@+id/toolbar_guillotine">
+
+        <ImageView
+            android:id="@+id/guillotine_hamburger"
+            style="@style/ImageView.menu"
+            android:src="@drawable/menu" />
+    </android.support.v7.widget.Toolbar>
+
+
+
+    <LinearLayout
+        android:id="@+id/message_group"
+        style="@style/LinearLayout.GuillotineItem"
+        android:layout_marginTop="@dimen/guillotine_medium_margin"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center|fill">
+
+        <ImageView
+            style="@style/ImageView.GuillotineItem"
+            android:src="@drawable/message"
+            android:scaleType="centerInside" />
+
+        <ir.saeedsoft.smsbook.CustomTextview
+            style="@style/TextView.GuillotineItem"
+            android:text="@string/message" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/favorite_group"
+        style="@style/LinearLayout.GuillotineItem"
+        android:gravity="center|fill">
+
+        <ImageView
+            style="@style/ImageView.GuillotineItem"
+            android:src="@drawable/ic_star"
+            android:scaleType="centerInside" />
+
+        <ir.saeedsoft.smsbook.CustomTextview
+            style="@style/TextView.GuillotineItem"
+            android:text="@string/favorite" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/guillotine_divider_height" />
+
+    <LinearLayout
+        android:id="@+id/settings_group"
+        style="@style/LinearLayout.GuillotineItem"
+        android:gravity="center|fill">
+
+        <ImageView
+            style="@style/ImageView.GuillotineItem"
+            android:src="@drawable/ic_settings2"
+            android:scaleType="centerInside" />
+
+        <ir.saeedsoft.smsbook.CustomTextview
+            style="@style/TextView.GuillotineItem"
+            android:text="@string/settings" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/exit_group"
+        style="@style/LinearLayout.GuillotineItem"
+        android:gravity="center|fill">
+
+        <ImageView
+            style="@style/ImageView.GuillotineItem"
+            android:src="@drawable/exit"
+            android:scaleType="centerInside" />
+
+        <ir.saeedsoft.smsbook.CustomTextview
+            style="@style/TextView.GuillotineItem"
+            android:text="@string/exit" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:lineSpacingExtra="12sp"
+        android:text="منابع : https://www.beytoote.com/      http://www.akairan.com/ "
+        android:textColor="@color/background_gray"
+        android:textSize="18sp" />
+</LinearLayout>

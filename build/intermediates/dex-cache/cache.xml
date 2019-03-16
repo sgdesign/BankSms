@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.evernote\android-job\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7fa3e8386c65af8a5789a13bb6c0a35b44a5460">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.evernote-android-job-1.2.4_f88c6c9db147416f9f2e03add6c7c714d58298fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-26.0.2_3567e3892c4c86c0899098634350c748fee968be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\BankSms\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e068d5732dadd015edb1ac1ed9a40555a5c251d4">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\BankSms-library-unspecified_047a1165b0b02d39af49bcb2f197da296b3abb28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.jakewharton-butterknife-8.0.1_659a8799e3eb1cc0e87b6e0ad9a93fa735de7a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.2.1_3d2801ccb6242c5d8bb1a0e9ac126228fddb4c07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-design-23.2.1_9dadb545eaf3a2b245825b6121121c68df42473e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\picasso-2.5.2_69e65c6f2cdcaa5a6b43334d0dfe96751bff18b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-11.8.0_6313efaa9d56d98333b9434101775ca010c74632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-26.0.2_3e686c13357f25d22a61e21ea17c1f966d296012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\BankSms\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e068d5732dadd015edb1ac1ed9a40555a5c251d4">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\BankSms-library-unspecified_047a1165b0b02d39af49bcb2f197da296b3abb28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.2.1_3d2801ccb6242c5d8bb1a0e9ac126228fddb4c07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-23.2.1_569afa10b2bb9c306d8a9ffedb073c72f632bcda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.evernote\android-job\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a7fa3e8386c65af8a5789a13bb6c0a35b44a5460">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.evernote-android-job-1.2.4_f88c6c9db147416f9f2e03add6c7c714d58298fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\co.ronash.android\pushe-base\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df58adfc09d0bab19c3ae8ca97a10ae30fec39ea">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\co.ronash.android-pushe-base-1.4.0_e899ffde4fcd1081dc330002b106e0b94fed586e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\support-annotations-26.0.2_43aea6031cff630efd4cd947ddc09817352d94ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\butterknife-annotations-8.0.1_fe4ed42c0546a90a892ee8a938d0e8deb12386e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-26.0.2_2d741cd5fab8eefe01997118ad71880b25cbd121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.2.1_96c8ead5c852559bc71bac7e7aad25edf78da5f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b7dbd963f54ff7b600c647d14ca381f110d9c9a">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-11.8.0_ab5c91c270a56fb7403d42c1b63128a230164df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-26.0.2_cf76b3a512f4c51e3a36f5b105e5896b679e16f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b7dbd963f54ff7b600c647d14ca381f110d9c9a">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-11.8.0_ab5c91c270a56fb7403d42c1b63128a230164df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-location-11.8.0_73cb0ceb75227ad0d6f301c74ecf770b18eddd26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe3a72bee9f9eda45a5940a278fd9c1979b14a37">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-11.8.0_75c9a85430843e5893faf266bd9cdaa4a3dff3de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.2.1_96c8ead5c852559bc71bac7e7aad25edf78da5f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-26.0.2_cf76b3a512f4c51e3a36f5b105e5896b679e16f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-26.0.2_3e686c13357f25d22a61e21ea17c1f966d296012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-26.0.2_2d741cd5fab8eefe01997118ad71880b25cbd121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-11.8.0_39a91a954d72d2721f614b768a3e392529b7f8bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-11.8.0_273d9a822af0c24a703d76a0e2adb88a91a955cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\butterknife-annotations-8.0.1_fe4ed42c0546a90a892ee8a938d0e8deb12386e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-11.8.0_39a91a954d72d2721f614b768a3e392529b7f8bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fe3a72bee9f9eda45a5940a278fd9c1979b14a37">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-11.8.0_75c9a85430843e5893faf266bd9cdaa4a3dff3de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.2.1_7ea31e2886d5cf53f40ac6258c1abd64bd699807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dde1ea8573633db3da4e8c42d541bfa7d03d6720">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.github.rey5137-material-1.2.2_37f72d183ae185e2572b22d097bd4dec3b0ac46a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-26.0.2_a3f491ba15c88ded00a3f2a2b1a2c092202d2461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-11.8.0_273d9a822af0c24a703d76a0e2adb88a91a955cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-26.0.2_a3f491ba15c88ded00a3f2a2b1a2c092202d2461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.2.1_7ea31e2886d5cf53f40ac6258c1abd64bd699807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dde1ea8573633db3da4e8c42d541bfa7d03d6720">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.github.rey5137-material-1.2.2_37f72d183ae185e2572b22d097bd4dec3b0ac46a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-location-11.8.0_73cb0ceb75227ad0d6f301c74ecf770b18eddd26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\support-annotations-26.0.2_43aea6031cff630efd4cd947ddc09817352d94ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-11.8.0_6313efaa9d56d98333b9434101775ca010c74632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-23.2.1_569afa10b2bb9c306d8a9ffedb073c72f632bcda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-26.0.2_41558d0efa679e5fda62dae8bca2ad611c1b686e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.2.1_8d555d93e9522c9d5cca62a241f2a309396fa3c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\co.ronash.android\pushe-base\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df58adfc09d0bab19c3ae8ca97a10ae30fec39ea">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\co.ronash.android-pushe-base-1.4.0_e899ffde4fcd1081dc330002b106e0b94fed586e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.jakewharton-butterknife-8.0.1_659a8799e3eb1cc0e87b6e0ad9a93fa735de7a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.2.1_8d555d93e9522c9d5cca62a241f2a309396fa3c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-26.0.2_41558d0efa679e5fda62dae8bca2ad611c1b686e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-26.0.2_3567e3892c4c86c0899098634350c748fee968be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\saeed\Desktop\BankSms\app\build\intermediates\pre-dexed\release\com.android.support-design-23.2.1_9dadb545eaf3a2b245825b6121121c68df42473e.jar" />
+    </item>
+
+</items>
